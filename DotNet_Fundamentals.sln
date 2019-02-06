@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HelloWorld", "01_HelloWorld\01_HelloWorld.csproj", "{B9AD7409-1809-491A-BA90-14A2445FA6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetFundamentals_InATestProject", "DotNetFundamentals_InATestProject\DotNetFundamentals_InATestProject.csproj", "{0EB8925A-FF10-4CA4-B572-73A0647DDAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9AD7409-1809-491A-BA90-14A2445FA6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AD7409-1809-491A-BA90-14A2445FA6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AD7409-1809-491A-BA90-14A2445FA6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AD7409-1809-491A-BA90-14A2445FA6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB8925A-FF10-4CA4-B572-73A0647DDAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB8925A-FF10-4CA4-B572-73A0647DDAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB8925A-FF10-4CA4-B572-73A0647DDAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB8925A-FF10-4CA4-B572-73A0647DDAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B385A916-A294-4977-AA9F-1637CE2CFC19}
+	EndGlobalSection
+EndGlobal
